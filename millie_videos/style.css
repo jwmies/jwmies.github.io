@@ -1,0 +1,6 @@
+.gallery{display: inline-block;
+border-style: solid;
+border-width: 2px;
+border-color: LightGray;margin: 5px;width: 200px;}.gallery .description{padding: 5px;text=align: center;}.gallery:hover{border-style: solid;
+border-width: 2px;
+border-color: blue;}.gallery img{width: 100%;height: auto;}
